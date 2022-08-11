@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mar90
+- 👋 Hi, I’m @Mahmood M. Abd
 - 👀 I’m interested in AWS
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
